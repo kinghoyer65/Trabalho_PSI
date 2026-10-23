@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD35BDA-E71D-48E1-A999-C8711A4EEF9C}|Bancoksi.wdf\\Bancoksi.wdf.csproj|c:\\users\\126969\\source\\repos\\bancoksi.wdf\\bancoksi.wdf\\form_registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BD35BDA-E71D-48E1-A999-C8711A4EEF9C}|Bancoksi.wdf\\Bancoksi.wdf.csproj|solutionrelative:bancoksi.wdf\\form_registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD35BDA-E71D-48E1-A999-C8711A4EEF9C}|Bancoksi.wdf\\Bancoksi.wdf.csproj|c:\\users\\126969\\source\\repos\\bancoksi.wdf\\bancoksi.wdf\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BD35BDA-E71D-48E1-A999-C8711A4EEF9C}|Bancoksi.wdf\\Bancoksi.wdf.csproj|solutionrelative:bancoksi.wdf\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD35BDA-E71D-48E1-A999-C8711A4EEF9C}|Bancoksi.wdf\\Bancoksi.wdf.csproj|c:\\users\\126969\\source\\repos\\bancoksi.wdf\\bancoksi.wdf\\form_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BD35BDA-E71D-48E1-A999-C8711A4EEF9C}|Bancoksi.wdf\\Bancoksi.wdf.csproj|solutionrelative:bancoksi.wdf\\form_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD35BDA-E71D-48E1-A999-C8711A4EEF9C}|Bancoksi.wdf\\Bancoksi.wdf.csproj|c:\\users\\126969\\source\\repos\\bancoksi.wdf\\bancoksi.wdf\\form_inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD35BDA-E71D-48E1-A999-C8711A4EEF9C}|Bancoksi.wdf\\Bancoksi.wdf.csproj|solutionrelative:bancoksi.wdf\\form_inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD35BDA-E71D-48E1-A999-C8711A4EEF9C}|Bancoksi.wdf\\Bancoksi.wdf.csproj|c:\\users\\126969\\source\\repos\\bancoksi.wdf\\bancoksi.wdf\\form_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD35BDA-E71D-48E1-A999-C8711A4EEF9C}|Bancoksi.wdf\\Bancoksi.wdf.csproj|solutionrelative:bancoksi.wdf\\form_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_inicio.cs",
+              "DocumentMoniker": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\Bancoksi.wdf\\Form_inicio.cs",
+              "RelativeDocumentMoniker": "Bancoksi.wdf\\Form_inicio.cs",
+              "ToolTip": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\Bancoksi.wdf\\Form_inicio.cs",
+              "RelativeToolTip": "Bancoksi.wdf\\Form_inicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T15:49:35.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\Bancoksi.wdf\\Form_inicio.Designer.cs",
+              "RelativeDocumentMoniker": "Bancoksi.wdf\\Form_inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\Bancoksi.wdf\\Form_inicio.Designer.cs",
+              "RelativeToolTip": "Bancoksi.wdf\\Form_inicio.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T14:31:08.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_inicio.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\Bancoksi.wdf\\Form_inicio.cs",
+              "RelativeDocumentMoniker": "Bancoksi.wdf\\Form_inicio.cs",
+              "ToolTip": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\Bancoksi.wdf\\Form_inicio.cs [Projeto]",
+              "RelativeToolTip": "Bancoksi.wdf\\Form_inicio.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T14:30:44.957Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\Bancoksi.wdf\\Form_Login.cs",
+              "RelativeDocumentMoniker": "Bancoksi.wdf\\Form_Login.cs",
+              "ToolTip": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\Bancoksi.wdf\\Form_Login.cs [Projeto]",
+              "RelativeToolTip": "Bancoksi.wdf\\Form_Login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T14:31:58.384Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_registrar.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\Bancoksi.wdf\\Form_registrar.cs",
+              "RelativeDocumentMoniker": "Bancoksi.wdf\\Form_registrar.cs",
+              "ToolTip": "C:\\Users\\126969\\source\\repos\\Bancoksi.wdf\\Bancoksi.wdf\\Form_registrar.cs [Projeto]",
+              "RelativeToolTip": "Bancoksi.wdf\\Form_registrar.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T15:53:23.31Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
